@@ -1,0 +1,25 @@
+{
+  "name": "adv-fe",
+  "homepage": "https://github.com/Macstyg/adv-fe",
+  "authors": [
+    "Macstyg <macstyg@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "underscore": "1.8.3",
+    "backbone": "1.x",
+    "react": ">0.1.0",
+    "angular": "latest",
+    "handlebars": "^4.0.5",
+    "jquery": "^2.2.3"
+  }
+}
